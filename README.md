@@ -1,4 +1,4 @@
-# lcs
+# Lehigh Coursesite Scrapper
 A tool for opening up all Lehigh Coursesite Pages using Python and Selenium.
 
 Don't have Selenium? Use this: https://selenium-python.readthedocs.io/
